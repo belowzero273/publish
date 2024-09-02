@@ -4,7 +4,7 @@
 | Статья                                                                                                                                              | Ресурс               | Дата       |
 | ----------------------------------------------------------------------------------------------------------------------------------------------------|----------------------| ---------- |
 | [Мессенджеры: как развивались и меняли наше общение в них](https://itspeaker.ru/news/kak-izmenilis-messendzhery-i-nashe-obshchenie-v-nikh/)         | https://itspeaker.ru | 22.08.2024 |
-| [Эксперт рассказал, почему почта остается популярной](https://itspeaker.ru/news/edit-elektronnaya-pochta-rassadnik-spama-i-fishinga/)               | https://itspeaker.ru | 22.07.2024 |
+| [Почему электронная почта остается популярной](https://itspeaker.ru/news/edit-elektronnaya-pochta-rassadnik-spama-i-fishinga/)                      | https://itspeaker.ru | 22.07.2024 |
 | [Как сломать все! 5 вредных советов для Kubernetes](https://habr.com/ru/companies/gaz-is/articles/755392/)                                          | https://habr.com     | 01.09.2023 |
 | [Kubernetes, матрицы и пентест. Часть 2](https://habr.com/ru/companies/gaz-is/articles/727336/)                                                     | https://habr.com     | 12.04.2023 |
 | [Kubernetes, матрицы и пентест. Часть 1](https://habr.com/ru/companies/gaz-is/articles/724928/)                                                     | https://habr.com     | 27.03.2023 |
