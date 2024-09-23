@@ -3,6 +3,7 @@
 
 | Статья                                                                                                                                              | Ресурс               | Дата       |
 | ----------------------------------------------------------------------------------------------------------------------------------------------------|----------------------| ---------- |
+| [Как VPN стал популярным](https://itspeaker.ru/news/vpn/)                                                                                           | https://itspeaker.ru | 19.09.2024 |
 | [Мессенджеры: как развивались и меняли наше общение в них](https://itspeaker.ru/news/kak-izmenilis-messendzhery-i-nashe-obshchenie-v-nikh/)         | https://itspeaker.ru | 22.08.2024 |
 | [Почему электронная почта остается популярной](https://itspeaker.ru/news/edit-elektronnaya-pochta-rassadnik-spama-i-fishinga/)                      | https://itspeaker.ru | 22.07.2024 |
 | [Как сломать все! 5 вредных советов для Kubernetes](https://habr.com/ru/companies/gaz-is/articles/755392/)                                          | https://habr.com     | 01.09.2023 |
